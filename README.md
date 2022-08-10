@@ -9,4 +9,4 @@
 
 Спасибо за внимание!)
 
-![фото](file:///D:/Doc/%D1%84%D0%BE%D1%82%D0%BE/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C%20%D0%B1%D1%80%D0%B0%D0%BB/20210827_144544.jpg)
+![фото](D:/Doc/git learn/Profil/foto.jpg)
